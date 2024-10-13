@@ -14,13 +14,12 @@
 # PSA Tech Team
 
 ### Tech Team Thursdays
-**Tech Team Thursdays** are recurring events where we come together to develop technology-driven projects that benefit **PSA** and its members. We will primarily focus on software development, mainly web development, but if you’re a tech enthusiast, an engineer, or just curious about the world of technology, we’d love to have you join us!
+**Tech Team Thursdays** are recurring events where we come together to develop technology-driven projects that benefit **PSA** and its members. During our weekly meetings, members learn various aspects of web development, including HTML, CSS, JavaScript, and React, and collaborate on exciting projects to gain practical experience. 
 
 Our goals include:
 - **Empowering Members:** Equipping students with technical skills in web development, programming, and project management through workshops and real-world projects.
 - **Enhancing PSA's Digital Presence:** Developing projects that improve PSA's online platforms and community engagement.
 
-The PSA Tech Team holds regular meetings where members learn various aspects of web development, including **HTML, CSS, JavaScript, and React**, and collaborate on exciting projects to gain practical experience.
 
 ### Small Filipino Business Database
 The **Small Filipino Business Database** is one of the ongoing projects developed by the PSA Tech Team. It aims to catalog and highlight Filipino-owned businesses, making it easier for the community to discover and support them. The database will serve as a resource for those interested in finding local Filipino-run businesses and fostering economic growth within the community.
